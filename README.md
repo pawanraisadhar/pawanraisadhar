@@ -1,4 +1,4 @@
-![](https://
+![](https://(https://github.com/pawanraisadhar/pawanraisadhar/blob/main/PAWAN%20RAISADHAR.png)
 <h1 align="center">Hi 👋, I'm Pawan Raisadhar</h1>
 <h3 align="center">Data Analyst | Excel • SQL • Power BI • Tableau | Data Cleaning & Visualization</h3>
 
